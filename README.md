@@ -1,7 +1,8 @@
-# Python code to control ELL14K rotation mount
+# Python code to control ELL14K/ELL18K rotation mount
 Author: Sarina Xi
+Modified by Samuel Li (September 2021)
 
-This Python code is written to control the [ELL14K rotation mount](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=12829).  
+This Python code is written to control the [ELL14K/ELL18K rotation mount](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=12829).  
 
 All the constants and commands are gotten from the communication manual available on the Thorlabs website for this product. 
 Refer to that if you would like to add functions and modify commands. 
